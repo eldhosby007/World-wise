@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "e762",
+      "cityName": "Moroco",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-07-25T14:54:16.284Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "40.49474906281552",
+        "lng": "-3.71340719157844"
+      }
+    },
+    {
+      "id": "af7f",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-07-28T10:16:51.251Z",
+      "notes": "Test",
+      "position": {
+        "lat": "51.47337635676709",
+        "lng": "-0.09904861450195314"
+      }
+    },
+    {
+      "id": "97a2",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-28T10:40:04.638Z",
+      "notes": "Good",
+      "position": {
+        "lat": "48.85049146314036",
+        "lng": "2.3620605468750004"
+      }
+    },
+    {
+      "id": "b109",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-08T09:58:26.184Z",
+      "notes": "wonderfull",
+      "position": {
+        "lat": "40.007255066942776",
+        "lng": "-0.014934539794921877"
+      }
+    },
+    {
+      "id": "05a3",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-08-08T09:58:44.986Z",
+      "notes": "Great",
+      "position": {
+        "lat": "51.513993704074366",
+        "lng": "-0.09664535522460939"
+      }
+    }
+  ]
+}
